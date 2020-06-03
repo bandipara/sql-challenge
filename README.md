@@ -28,8 +28,9 @@ Created Following Tables and Loaded Data from CSV:
 
 #### Data Analysis
 
-```sql
+
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
+```sql
 select 
 	a.emp_no, 
 	a.first_name,
