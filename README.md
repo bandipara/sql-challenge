@@ -15,7 +15,7 @@ Database Design based on CSV data. Establishing relationship between different t
 
 #### Data Engineering
 
-Created Following Tables and Loaded Data from CSV:
+Created Following Tables and Loaded Data by uploading CSV:
 
 ```sql
 'departments'
