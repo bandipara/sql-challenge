@@ -15,7 +15,7 @@ Database Design based on CSV data. Establishing relationship between different t
 
 #### Data Engineering
 
-Created Following Tables and Loaded Data by uploading CSV:
+Created Following Tables and imported Data from CSV:
 
 ```sql
 'departments'
@@ -80,7 +80,7 @@ left join departments c on b.dept_no=c.dept_no
 order by emp_no;
 ```
 This query gives dept_name of all the past depts of the employee including ex-employees. 
-Dense Rank function can be used if only latest dept name is required.
+`Dense Rank` function can be used if only latest dept name is required.
 
 
 5. List all employees whose first name is "Hercules" and last names begin with "B."
