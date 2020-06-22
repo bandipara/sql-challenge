@@ -9,7 +9,7 @@
 
 #### Data Modeling
 
-Database Design based on CSV data
+Database Design based on CSV data. Establishing relationship between different tables and columns to create a reference for Relational Database.
 
 ![](EmployeeSQL/DBD-Employees.png)
 
