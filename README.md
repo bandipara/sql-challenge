@@ -7,13 +7,13 @@
 3. Data Analysis
 
 
-#### Data Modeling
+### Data Modeling
 
 Database Design based on CSV data. Establishing relationship between different tables and columns to create a reference for Relational Database.
 
 ![](EmployeeSQL/DBD-Employees.png)
 
-#### Data Engineering
+### Data Engineering
 
 Created Following Tables and imported Data from CSV:
 
@@ -26,7 +26,7 @@ Created Following Tables and imported Data from CSV:
 'titles'
 ```
 
-#### Data Analysis
+### Data Analysis
 
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
